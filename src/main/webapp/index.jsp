@@ -5,7 +5,7 @@
 </head>
 <body bgcolor="#E7733A">
 
-<h1>***Welcome user abdul***</h1>
+<h1>***Regisgter user abdul***</h1>
 <mak:newForm type="general.Person" action="index.jsp">
 Name: <mak:input field="name" /><br/>
 Surname: <mak:input field="surname" />
